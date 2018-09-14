@@ -1,0 +1,8 @@
+= Lala
+
+include::foo.data[]
+
+[source,graphql]
+----
+include::foo.data[]
+----
